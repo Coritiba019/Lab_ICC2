@@ -1,5 +1,5 @@
 /*
-   Nome: Fabio dias da cunha
+   Nome: Fabio Dias da Cunha
    N USP: 11320874
 
    Trabalho 1 - Palíndromos
