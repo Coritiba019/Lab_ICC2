@@ -57,7 +57,7 @@ int main() {
 }
 
 void adicionarRegistro(const char *arquivo, int id, const char *nome, int idade) {
-    FILE *fp = fopen(arquivo, "wb");
+    FILE *fp = fopen(arquivo, "ab");
 
     if (fp == NULL) {
         printf("Erro ao abrir o arquivo.\n");
